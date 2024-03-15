@@ -27,7 +27,7 @@
     "main": "postcss.config.js",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Origawa/Moeera-tea.git"
+      "url": "https://github.com/Origawa/Moeera-tea"
     },
     "author": "",
     "license": "ISC",
